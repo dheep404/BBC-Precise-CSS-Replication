@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\Four Boxes"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BBC"
+	}
+}
